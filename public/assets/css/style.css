@@ -967,7 +967,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .breadcrumb-area .breadcrumb li.active {
-  color: #ff4450;
+  color: #dc6a2e;
 }
 
 
@@ -3805,13 +3805,13 @@ body,
     # Testimonials Area
 ====================================== */
 
-.testimonials-area .testimonial-items .item {
+.testimonials-area .testimonial-items .item1 {
     background: #ffffff;
     padding: 50px 37px;
     box-shadow: 1px 4px 20px -2px rgba(0,0,0,0.1);
 }
 
-.testimonials-area .testimonial-items .item .author {
+.testimonials-area .testimonial-items .item1 .author {
     border-top: 1px solid #dddddd;
     padding-top: 30px;
     margin-top: 25px;
@@ -3821,12 +3821,12 @@ body,
     text-align: left;
 }
 
-.testimonials-area .testimonial-items .item .author .avatar {
+.testimonials-area .testimonial-items .item1 .author .avatar {
   margin-right: 20px;
 }
 
-.testimonials-area .testimonial-items .item .author::after,
-.testimonials-area .testimonial-items .item .author::before {
+.testimonials-area .testimonial-items .item1 .author::after,
+.testimonials-area .testimonial-items .item1 .author::before {
     position: absolute;
     margin: auto;
     top: -1px;
@@ -3839,7 +3839,7 @@ body,
     content: "";
 }
 
-.testimonials-area .testimonial-items .item .author::after {
+.testimonials-area .testimonial-items .item1 .author::after {
     border-right: transparent;
     border-top: transparent;
     border-left: 1px solid #dddddd;
@@ -3853,25 +3853,25 @@ body,
     left: 105px;
 }
 
-.testimonials-area .testimonial-items .item .author img {
+.testimonials-area .testimonial-items .item1 .author img {
     height: 80px;
     width: 80px;
     border-radius: 50%;
 }
 
-.testimonials-area .testimonial-items .item .author h4 {
+.testimonials-area .testimonial-items .item1 .author h4 {
     font-weight: 700;
     margin-bottom: 5px;
     text-transform: capitalize;
 }
 
-.testimonials-area .testimonial-items .item .author span {
-    color: #ff4949;
+.testimonials-area .testimonial-items .item1 .author span {
+    color: #dc6a2e;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
 
-.testimonials-area .testimonial-items .item i {
+.testimonials-area .testimonial-items .item1 i {
     font-size: 50px;
     position: absolute;
     right: 50px;
@@ -3896,11 +3896,11 @@ body,
 }
 
 .testimonials-area .testimonial-items.testimonial-carousel .owl-dots .owl-dot.active span {
-    background: #ff4949 none repeat scroll 0 0;
-    border-color: #ff4949;
+    background: #dc6a2e none repeat scroll 0 0;
+    border-color: #dc6a2e;
 }
 
-.testimonials-area .testimonial-items .item p {
+.testimonials-area .testimonial-items .item1 p {
     font-size: 18px;
     line-height: 34px;
     font-style: italic;
@@ -8059,7 +8059,7 @@ footer.demo img {
     @media only screen and (max-width: 600px) {
         .single-logo img {
             width: 100px;
-            height: 100px; 
+            height: 100px;
         }
         .accordion button {
             font-size: 16px !important;

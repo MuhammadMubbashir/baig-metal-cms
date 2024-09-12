@@ -65,6 +65,10 @@ class WebsiteController extends Controller
     {
         return view('website.precision_maching');
     }
+    public function customers ()
+    {
+        return view('website.customer');
+    }
     public function quality_assurance()
     {
         return view('website.quality_assurance');

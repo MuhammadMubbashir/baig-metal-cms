@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <ul class="breadcrumb">
-                    <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+                    <li><a href="{{ route('gallery') }}"><i class="fas fa-home"></i> Home</a></li>
                     <li class="active">Gallery</li>
                 </ul>
             </div>
