@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12">
                     <ul class="breadcrumb">
-                        <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+                        <li><a href="{{ route('index') }}"><i class="fas fa-home"></i> Home</a></li>
                         <li class="active">Certification</li>
                     </ul>
                 </div>
@@ -37,15 +37,7 @@
                         <!-- <h4>Services</h4> -->
                         <h2>Our Certification</h2>
                     </div>
-                    <!-- <div class="mix-item-menu text-center">
-                        <button class="active" data-filter="*">All</button>
-                        <button data-filter=".development">Development</button>
-                        <button data-filter=".consulting">Consulting</button>
-                        <button data-filter=".finance">Finance</button>
-                        <button data-filter=".branding">Branding</button>
-                        <button data-filter=".capital">Capital</button>
-                    </div> -->
-                    <!-- End Mixitup Nav-->
+
 
                     <div class="row magnific-mix-gallery masonary">
                         <div id="portfolio-grid" class="gallery-items col-3" style="position: relative; height: 114.062px;">

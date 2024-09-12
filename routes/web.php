@@ -19,7 +19,7 @@ use App\Http\Controllers\WebsiteController;
 
 Route::controller(WebsiteController::class ,)->group(function() {
     Route::prefix('/')->group(function() {
-        Route::get('', 'index');
+        Route::get('', 'index')->name('index');
         Route::get('who_we_are', 'about')->name('about');
         Route::get('quality_assurance', 'quality_assurance')->name('quality_assurance');
         Route::get('precision_machine', 'precision')->name('precision_machine');

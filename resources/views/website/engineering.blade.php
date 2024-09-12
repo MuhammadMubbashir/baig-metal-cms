@@ -16,8 +16,8 @@
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <ul class="breadcrumb">
-                    <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-                    <li><a href="#">Services</a></li>
+                    <li><a href="{{ route('index') }}"><i class="fas fa-home"></i> Home</a></li>
+                    {{-- <li><a href="#">Services</a></li> --}}
                     <li class="active">Engineering</li>
                 </ul>
             </div>
@@ -64,7 +64,7 @@
                             Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something.
                         </p>
                     </div>
-                   
+
                 </div>
             </div>
             <!-- End Single Item -->
