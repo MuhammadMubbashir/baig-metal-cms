@@ -48,15 +48,12 @@
                         </p>
                         <ul>
                             <li>
-                                <h4>Completed projects</h4>
-                                <span>30K</span>
+                                <p>Completed projects</p>
                             </li>
                             <li>
-                                <h4>Success Rate</h4>
-                                <span>90%</span>
+                                <p>Success Rate</p>
                             </li>
                         </ul>
-                        <a class="btn btn-light border btn-md" href="#">Get Started</a>
                     </div>
 \
                 </div>

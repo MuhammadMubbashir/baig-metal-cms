@@ -29,38 +29,19 @@
 
 
 <!-- who we are start -->
-<div class="about-area default-padding">
+<div class="about-area">
 <div class="container">
     <div class="row">
         <!-- Start About Content -->
         <div class="about-content content-left">
-            <div class="col-md-6 info">
-                <h2>We're knowledgeable about making benefits higher</h2>
+            <div class="col-md-5 info">
+                <h2>About Baig Metal</h2>
                 <p>
-                    Demesne far hearted suppose venture excited see had has. Dependent on so extremely delivered by. Yet &#xFEFF;no jokes worse her why. Bed one supposing breakfast day fulfilled off depending questions. Whatever boy her exertion his extended. Ecstatic followed handsome drawings entirely mrs one yet outweigh. Of acceptance insipidity remarkably is invitation.
-                </p>
-                <ul>
-                    <li><i class="icon_check"></i> Solution for small &amp; large businesses</li>
-                    <li><i class="icon_check"></i> Ease you get credit loan amount in your bank account</li>
-                </ul>
-                <div class="author">
-                    <div class="content">
-                        <div class="thumb">
-                            <img src="{{ asset('assets/images/1_1.jpg') }}" alt="Thumb">
-                        </div>
-                        <div class="info">
-                            <h4>William Blanchard</h4>
-                            <span>CEO &amp; Company founder</span>
-                        </div>
-                    </div>
-                    <div class="signature">
-                        <img src="{{  asset('assets/images/signature.png') }}" alt="signature">
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 thumb">
-                <img src="{{  asset('assets/images/7.jpg') }}" alt="Thumb">
-                <img src="{{ asset('assets/images/6.jpg') }}" alt="Thumb">
+                   Baig Metal Crafts started Sheet metal Stamping business with a humble start in 2003, as Tier 2, Vendor/Supplier to OEM’s i.e. Toyota, Suzuki, and Honda. Since then we have expanded our facility and became Tier1, Vendor/Supplier to Yamaha, Landi Renzo Pakistan (CNG Regulator Manufacturer – Italian Based), and Sui Southern Gas Company (Natural Gas Distributor and Diaphragm Gas Meter Manufacturer – Pakistan). </p>
+        </div>
+            <div class="col-md-7 thumb">
+                <img src="{{  asset('assets/\images\engineering/service-02-1024x832.jpg') }}" alt="Thumb">
+                <img src="{{ asset('assets/images/about/RCvpHE.jpg') }}" alt="Thumb">
             </div>
         </div>
         <!-- End About -->

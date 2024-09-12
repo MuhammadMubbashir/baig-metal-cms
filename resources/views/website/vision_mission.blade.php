@@ -34,21 +34,15 @@
         <div class="row item-flex center">
             <div class="col-md-6 thumb-box">
                 <div class="thumb">
-                    <img src="{{ asset('assets/images/22.jpg') }}" alt="Thumb">
-                    <img src="{{ asset('assets/images/33.jpg') }}" alt="Thumb">
+                    <img src="{{ asset('assets/images/about/DSC_0261.JPG') }}" alt="Thumb">
+                    <img src="{{ asset('assets/images/about/Mission-Vision-1024x678.jpg') }}" alt="Thumb">
                 </div>
             </div>
             <div class="col-md-6 info">
-                <h2>We’re Constantly Improving Our Skills to Fulfill Projects</h2>
-                <p>
-                    <strong>25+ years experience in business and finance consulting, IT solutions, <br> and working with 5k+ clients over the world. </strong>
-                </p>
-                <p>
-                    Preserved defective offending he daughters on or. Advantages prosperous remarkably my inhabiting so reasonably be if. Too any appearance announcing impossible one. Out mrs means heart ham tears shall power every.
-                </p>
-                <p>
-                    Shutters ye marriage to throwing we as. Effect in if agreed he wished wanted admire expect. Or shortly visitor is comfort placing to cheered do. Few hills tears are weeks saw. Partiality insensible celebrated is in. Am offended as wandered thoughts greatest an friendly.
-                </p>
+                <h2>Vision</h2>
+                <p>To become the reliable Stamping services provider in Global market by adding value for the stakeholders.  </p>
+                <h2>Mission</h2>
+                <p>We are constantly striving to contribute to the Stamping industry by producing tailored Stampings with customer eccentric.  Our forte is Quality, Delivery, and Cost. Our process are embedded with sustainability, continuous monitoring, continuous improvement, and stressing core values at large. </p>
                </div>
         </div>
     </div>

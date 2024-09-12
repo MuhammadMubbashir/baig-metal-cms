@@ -1900,6 +1900,8 @@ body,
 .about-area .about-content {
   display: block;
   float: left;
+  display: flex;
+  align-items: center;
   width: 100%;
 }
 
@@ -3567,6 +3569,8 @@ body,
 .expertise-area .our-expertise .expertise-items ul {
   overflow: hidden;
   margin-top: 30px;
+  display: flex;
+  flex-direction: column;
 }
 
 .expertise-area .our-expertise .expertise-items li::after {
@@ -6921,6 +6925,8 @@ nav.navbar.bootsnav.navbar-transparent.nav-modern .attr-nav {
 .about-area {
   position: relative;
   z-index: 1;
+  padding-top: 20px;
+  padding-bottom: 40px;
 }
 
 .shape-120-light {

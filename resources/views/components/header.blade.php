@@ -129,7 +129,7 @@
 
                 </li>
                 <li class="dropdown">
-                    <a href="{{ route('about') }}" class="dropdown-toggle" data-toggle="dropdown">About</a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About</a>
                     <ul class="dropdown-menu">
 
 
